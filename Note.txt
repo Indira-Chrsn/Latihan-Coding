@@ -8,3 +8,8 @@ codingannya dengan memberi beberapa perubahan pada tampilannya.
 -GO-
 
 File dengan nama 1 adalah file lama (saat praktikum tahun lalu), sedangkan file dengan nama tes1 adalah file baru yang berisi revisi dari file 1
+
+
+-C++-
+
+File pdf adalah soal untuk folder Queue dan MOD9
