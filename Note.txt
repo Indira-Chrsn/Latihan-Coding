@@ -1,3 +1,10 @@
+-PYTHON-
+
 Untuk file dengan nama Tubes2-GUI_1301204152 itu bukan projek mandiri.
 Sudah ada contoh berupa video dan mahasiswa diminta untuk menulis ulang
 codingannya dengan memberi beberapa perubahan pada tampilannya.
+
+
+-GO-
+
+File dengan nama 1 adalah file lama (saat praktikum tahun lalu), sedangkan file dengan nama tes1 adalah file baru yang berisi revisi dari file 1
