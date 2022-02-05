@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638613587 source:e:\telkom'20\if-44-04\struktur data\praktikum mod9\queue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1638613505 source:e:\telkom'20\if-44-04\struktur data\praktikum mod9\queue\queue.cpp
+	"Queue.h"
+
+1638613505 e:\telkom'20\if-44-04\struktur data\praktikum mod9\queue\queue.h
+	<iostream>
+

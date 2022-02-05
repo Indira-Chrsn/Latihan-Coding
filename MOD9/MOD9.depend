@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638610406 source:e:\telkom'20\if-44-04\struktur data\praktikum mod9\mod9\main.cpp
+	<iostream>
+	"MOD9.h"
+
+1638610315 e:\telkom'20\if-44-04\struktur data\praktikum mod9\mod9\mod9.h
+	<iostream>
+
+1638610345 source:e:\telkom'20\if-44-04\struktur data\praktikum mod9\mod9\mod9.cpp
+	"MOD9.h"
+
