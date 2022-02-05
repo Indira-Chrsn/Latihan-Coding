@@ -1,0 +1,3 @@
+Untuk file dengan nama Tubes2-GUI_1301204152 itu bukan projek mandiri.
+Sudah ada contoh berupa video dan mahasiswa diminta untuk menulis ulang
+codingannya dengan memberi beberapa perubahan pada tampilannya.
